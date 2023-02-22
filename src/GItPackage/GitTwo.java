@@ -6,6 +6,7 @@ public class GitTwo {
 		
 		String str = "This is for push practice";
 		System.out.println(str);
+		System.out.println("this is for pull practic");
 		
 		
 	}

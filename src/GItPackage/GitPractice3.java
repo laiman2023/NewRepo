@@ -11,7 +11,7 @@ public class GitPractice3 {
 		System.out.println(b/a);
 		
 		
-		
+		Syestem.out.println("this is the prove that i am doing right the pull ");
 		
 		
 		
